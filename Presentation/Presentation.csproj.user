@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Empleados\Administracion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Empleados\ATS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Empleados\ATSZona.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Empleados\Auxiliares.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Empleados\Celadores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Medicos\Medicos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Horarios\Consultas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pacientes\Agregar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pacientes\Editar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pacientes\Paciente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Horarios\Sustituciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vacaciones\VACAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vacaciones\VACATS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vacaciones\VACATSZona.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vacaciones\VACAuxiliar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vacaciones\VACMedicos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

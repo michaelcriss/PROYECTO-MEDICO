@@ -1,0 +1,129 @@
+C:\Users\dacosta\source\repos\INF-325-2024-3\Presentation\bin\Debug\net8.0-windows\Presentation.exe
+C:\Users\dacosta\source\repos\INF-325-2024-3\Presentation\bin\Debug\net8.0-windows\Presentation.dll.config
+C:\Users\dacosta\source\repos\INF-325-2024-3\Presentation\bin\Debug\net8.0-windows\Presentation.deps.json
+C:\Users\dacosta\source\repos\INF-325-2024-3\Presentation\bin\Debug\net8.0-windows\Presentation.runtimeconfig.json
+C:\Users\dacosta\source\repos\INF-325-2024-3\Presentation\bin\Debug\net8.0-windows\Presentation.dll
+C:\Users\dacosta\source\repos\INF-325-2024-3\Presentation\bin\Debug\net8.0-windows\Presentation.pdb
+C:\Users\dacosta\source\repos\INF-325-2024-3\Presentation\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\dacosta\source\repos\INF-325-2024-3\Presentation\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\dacosta\source\repos\INF-325-2024-3\Presentation\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\dacosta\source\repos\INF-325-2024-3\Presentation\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\dacosta\source\repos\INF-325-2024-3\Presentation\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\dacosta\source\repos\INF-325-2024-3\Presentation\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\dacosta\source\repos\INF-325-2024-3\Presentation\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\dacosta\source\repos\INF-325-2024-3\Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\dacosta\source\repos\INF-325-2024-3\Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\dacosta\source\repos\INF-325-2024-3\Presentation\bin\Debug\net8.0-windows\DataAccess.dll
+C:\Users\dacosta\source\repos\INF-325-2024-3\Presentation\bin\Debug\net8.0-windows\DataAccess.pdb
+C:\Users\dacosta\source\repos\INF-325-2024-3\Presentation\obj\Debug\net8.0-windows\Presentation.csproj.AssemblyReference.cache
+C:\Users\dacosta\source\repos\INF-325-2024-3\Presentation\obj\Debug\net8.0-windows\Presentation.Form1.resources
+C:\Users\dacosta\source\repos\INF-325-2024-3\Presentation\obj\Debug\net8.0-windows\Presentation.csproj.GenerateResource.cache
+C:\Users\dacosta\source\repos\INF-325-2024-3\Presentation\obj\Debug\net8.0-windows\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dacosta\source\repos\INF-325-2024-3\Presentation\obj\Debug\net8.0-windows\Presentation.AssemblyInfoInputs.cache
+C:\Users\dacosta\source\repos\INF-325-2024-3\Presentation\obj\Debug\net8.0-windows\Presentation.AssemblyInfo.cs
+C:\Users\dacosta\source\repos\INF-325-2024-3\Presentation\obj\Debug\net8.0-windows\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\dacosta\source\repos\INF-325-2024-3\Presentation\obj\Debug\net8.0-windows\Presenta.BC777DBE.Up2Date
+C:\Users\dacosta\source\repos\INF-325-2024-3\Presentation\obj\Debug\net8.0-windows\Presentation.dll
+C:\Users\dacosta\source\repos\INF-325-2024-3\Presentation\obj\Debug\net8.0-windows\refint\Presentation.dll
+C:\Users\dacosta\source\repos\INF-325-2024-3\Presentation\obj\Debug\net8.0-windows\Presentation.pdb
+C:\Users\dacosta\source\repos\INF-325-2024-3\Presentation\obj\Debug\net8.0-windows\Presentation.genruntimeconfig.cache
+C:\Users\dacosta\source\repos\INF-325-2024-3\Presentation\obj\Debug\net8.0-windows\ref\Presentation.dll
+C:\Users\dacosta\source\repos\INF-325-2024-3\Presentation\bin\Debug\net8.0-windows\BusinessLogic.dll
+C:\Users\dacosta\source\repos\INF-325-2024-3\Presentation\bin\Debug\net8.0-windows\BusinessLogic.pdb
+C:\Users\criso\OneDrive\Escritorio\Proyecto Profesor\INF-325-2024-3\INF-325-2024-3\Presentation\obj\Debug\net8.0-windows\Presentation.dll
+C:\Users\criso\OneDrive\Escritorio\Proyecto Profesor\INF-325-2024-3\INF-325-2024-3\Presentation\obj\Debug\net8.0-windows\refint\Presentation.dll
+C:\Users\criso\OneDrive\Escritorio\Proyecto Profesor\INF-325-2024-3\INF-325-2024-3\Presentation\obj\Debug\net8.0-windows\Presentation.pdb
+C:\Users\criso\OneDrive\Escritorio\Proyecto Profesor\INF-325-2024-3\INF-325-2024-3\Presentation\bin\Debug\net8.0-windows\Presentation.exe
+C:\Users\criso\OneDrive\Escritorio\Proyecto Profesor\INF-325-2024-3\INF-325-2024-3\Presentation\bin\Debug\net8.0-windows\Presentation.dll.config
+C:\Users\criso\OneDrive\Escritorio\Proyecto Profesor\INF-325-2024-3\INF-325-2024-3\Presentation\bin\Debug\net8.0-windows\Presentation.deps.json
+C:\Users\criso\OneDrive\Escritorio\Proyecto Profesor\INF-325-2024-3\INF-325-2024-3\Presentation\bin\Debug\net8.0-windows\Presentation.runtimeconfig.json
+C:\Users\criso\OneDrive\Escritorio\Proyecto Profesor\INF-325-2024-3\INF-325-2024-3\Presentation\bin\Debug\net8.0-windows\Presentation.dll
+C:\Users\criso\OneDrive\Escritorio\Proyecto Profesor\INF-325-2024-3\INF-325-2024-3\Presentation\bin\Debug\net8.0-windows\Presentation.pdb
+C:\Users\criso\OneDrive\Escritorio\Proyecto Profesor\INF-325-2024-3\INF-325-2024-3\Presentation\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\criso\OneDrive\Escritorio\Proyecto Profesor\INF-325-2024-3\INF-325-2024-3\Presentation\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\criso\OneDrive\Escritorio\Proyecto Profesor\INF-325-2024-3\INF-325-2024-3\Presentation\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\criso\OneDrive\Escritorio\Proyecto Profesor\INF-325-2024-3\INF-325-2024-3\Presentation\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\criso\OneDrive\Escritorio\Proyecto Profesor\INF-325-2024-3\INF-325-2024-3\Presentation\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\criso\OneDrive\Escritorio\Proyecto Profesor\INF-325-2024-3\INF-325-2024-3\Presentation\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\criso\OneDrive\Escritorio\Proyecto Profesor\INF-325-2024-3\INF-325-2024-3\Presentation\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\criso\OneDrive\Escritorio\Proyecto Profesor\INF-325-2024-3\INF-325-2024-3\Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\criso\OneDrive\Escritorio\Proyecto Profesor\INF-325-2024-3\INF-325-2024-3\Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\criso\OneDrive\Escritorio\Proyecto Profesor\INF-325-2024-3\INF-325-2024-3\Presentation\bin\Debug\net8.0-windows\BusinessLogic.dll
+C:\Users\criso\OneDrive\Escritorio\Proyecto Profesor\INF-325-2024-3\INF-325-2024-3\Presentation\bin\Debug\net8.0-windows\DataAccess.dll
+C:\Users\criso\OneDrive\Escritorio\Proyecto Profesor\INF-325-2024-3\INF-325-2024-3\Presentation\bin\Debug\net8.0-windows\BusinessLogic.pdb
+C:\Users\criso\OneDrive\Escritorio\Proyecto Profesor\INF-325-2024-3\INF-325-2024-3\Presentation\bin\Debug\net8.0-windows\DataAccess.pdb
+C:\Users\criso\OneDrive\Escritorio\Proyecto Profesor\INF-325-2024-3\INF-325-2024-3\Presentation\obj\Debug\net8.0-windows\Presentation.csproj.AssemblyReference.cache
+C:\Users\criso\OneDrive\Escritorio\Proyecto Profesor\INF-325-2024-3\INF-325-2024-3\Presentation\obj\Debug\net8.0-windows\Presentation.Form1.resources
+C:\Users\criso\OneDrive\Escritorio\Proyecto Profesor\INF-325-2024-3\INF-325-2024-3\Presentation\obj\Debug\net8.0-windows\Presentation.csproj.GenerateResource.cache
+C:\Users\criso\OneDrive\Escritorio\Proyecto Profesor\INF-325-2024-3\INF-325-2024-3\Presentation\obj\Debug\net8.0-windows\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\criso\OneDrive\Escritorio\Proyecto Profesor\INF-325-2024-3\INF-325-2024-3\Presentation\obj\Debug\net8.0-windows\Presentation.AssemblyInfoInputs.cache
+C:\Users\criso\OneDrive\Escritorio\Proyecto Profesor\INF-325-2024-3\INF-325-2024-3\Presentation\obj\Debug\net8.0-windows\Presentation.AssemblyInfo.cs
+C:\Users\criso\OneDrive\Escritorio\Proyecto Profesor\INF-325-2024-3\INF-325-2024-3\Presentation\obj\Debug\net8.0-windows\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\criso\OneDrive\Escritorio\Proyecto Profesor\INF-325-2024-3\INF-325-2024-3\Presentation\obj\Debug\net8.0-windows\Presentation.csproj.CopyComplete
+C:\Users\criso\OneDrive\Escritorio\Proyecto Profesor\INF-325-2024-3\INF-325-2024-3\Presentation\obj\Debug\net8.0-windows\Presentation.genruntimeconfig.cache
+C:\Users\criso\OneDrive\Escritorio\Proyecto Profesor\INF-325-2024-3\INF-325-2024-3\Presentation\obj\Debug\net8.0-windows\ref\Presentation.dll
+C:\Users\criso\OneDrive\Escritorio\Proyecto Profesor\INF-325-2024-3\INF-325-2024-3\Presentation\obj\Debug\net8.0-windows\Presentation.Main.resources
+C:\Users\criso\OneDrive\Escritorio\Proyecto Profesor\INF-325-2024-3\INF-325-2024-3\Presentation\obj\Debug\net8.0-windows\Presentation.Properties.Resources.resources
+C:\Users\criso\OneDrive\Escritorio\Proyecto Profesor\INF-325-2024-3\INF-325-2024-3\Presentation\obj\Debug\net8.0-windows\Presentation.Medicos.resources
+C:\Users\criso\OneDrive\Escritorio\Proyecto Profesor\INF-325-2024-3\INF-325-2024-3\Presentation\obj\Debug\net8.0-windows\Presentation.Consultas.resources
+C:\Users\criso\OneDrive\Escritorio\Proyecto Profesor\INF-325-2024-3\INF-325-2024-3\Presentation\obj\Debug\net8.0-windows\Presentation.Sustituciones.resources
+C:\Users\criso\OneDrive\Escritorio\Proyecto Profesor\INF-325-2024-3\INF-325-2024-3\Presentation\obj\Debug\net8.0-windows\Presentation.Paciente.resources
+C:\Users\criso\OneDrive\Escritorio\Proyecto Profesor\INF-325-2024-3\INF-325-2024-3\Presentation\obj\Debug\net8.0-windows\Presentation.ATS.resources
+C:\Users\criso\OneDrive\Escritorio\Proyecto Profesor\INF-325-2024-3\INF-325-2024-3\Presentation\obj\Debug\net8.0-windows\Presentation.ATSZona.resources
+C:\Users\criso\OneDrive\Escritorio\Proyecto Profesor\INF-325-2024-3\INF-325-2024-3\Presentation\obj\Debug\net8.0-windows\Presentation.Administracion.resources
+C:\Users\criso\OneDrive\Escritorio\Proyecto Profesor\INF-325-2024-3\INF-325-2024-3\Presentation\obj\Debug\net8.0-windows\Presentation.Auxiliares.resources
+C:\Users\criso\OneDrive\Escritorio\Proyecto Profesor\INF-325-2024-3\INF-325-2024-3\Presentation\obj\Debug\net8.0-windows\Presentation.Celadores.resources
+C:\Users\criso\OneDrive\Escritorio\Proyecto Profesor\INF-325-2024-3\INF-325-2024-3\Presentation\obj\Debug\net8.0-windows\Presentation.VACATS.resources
+C:\Users\criso\OneDrive\Escritorio\Proyecto Profesor\INF-325-2024-3\INF-325-2024-3\Presentation\obj\Debug\net8.0-windows\Presentation.VACMedicos.resources
+C:\Users\criso\OneDrive\Escritorio\Proyecto Profesor\INF-325-2024-3\INF-325-2024-3\Presentation\obj\Debug\net8.0-windows\Presentation.VACAuxiliar.resources
+C:\Users\criso\OneDrive\Escritorio\Proyecto Profesor\INF-325-2024-3\INF-325-2024-3\Presentation\obj\Debug\net8.0-windows\Presentation.VACATSZona.resources
+C:\Users\criso\OneDrive\Escritorio\Proyecto Profesor\INF-325-2024-3\INF-325-2024-3\Presentation\obj\Debug\net8.0-windows\Presentation.VACAdmin.resources
+C:\Users\criso\OneDrive\Escritorio\Nueva carpeta (5)\INF-325-2024-3\INF-325-2024-3\Presentation\bin\Debug\net8.0-windows\Presentation.exe
+C:\Users\criso\OneDrive\Escritorio\Nueva carpeta (5)\INF-325-2024-3\INF-325-2024-3\Presentation\bin\Debug\net8.0-windows\Presentation.dll.config
+C:\Users\criso\OneDrive\Escritorio\Nueva carpeta (5)\INF-325-2024-3\INF-325-2024-3\Presentation\bin\Debug\net8.0-windows\Presentation.deps.json
+C:\Users\criso\OneDrive\Escritorio\Nueva carpeta (5)\INF-325-2024-3\INF-325-2024-3\Presentation\bin\Debug\net8.0-windows\Presentation.runtimeconfig.json
+C:\Users\criso\OneDrive\Escritorio\Nueva carpeta (5)\INF-325-2024-3\INF-325-2024-3\Presentation\bin\Debug\net8.0-windows\Presentation.dll
+C:\Users\criso\OneDrive\Escritorio\Nueva carpeta (5)\INF-325-2024-3\INF-325-2024-3\Presentation\bin\Debug\net8.0-windows\Presentation.pdb
+C:\Users\criso\OneDrive\Escritorio\Nueva carpeta (5)\INF-325-2024-3\INF-325-2024-3\Presentation\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\criso\OneDrive\Escritorio\Nueva carpeta (5)\INF-325-2024-3\INF-325-2024-3\Presentation\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\criso\OneDrive\Escritorio\Nueva carpeta (5)\INF-325-2024-3\INF-325-2024-3\Presentation\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\criso\OneDrive\Escritorio\Nueva carpeta (5)\INF-325-2024-3\INF-325-2024-3\Presentation\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\criso\OneDrive\Escritorio\Nueva carpeta (5)\INF-325-2024-3\INF-325-2024-3\Presentation\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\criso\OneDrive\Escritorio\Nueva carpeta (5)\INF-325-2024-3\INF-325-2024-3\Presentation\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\criso\OneDrive\Escritorio\Nueva carpeta (5)\INF-325-2024-3\INF-325-2024-3\Presentation\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\criso\OneDrive\Escritorio\Nueva carpeta (5)\INF-325-2024-3\INF-325-2024-3\Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\criso\OneDrive\Escritorio\Nueva carpeta (5)\INF-325-2024-3\INF-325-2024-3\Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\criso\OneDrive\Escritorio\Nueva carpeta (5)\INF-325-2024-3\INF-325-2024-3\Presentation\bin\Debug\net8.0-windows\BusinessLogic.dll
+C:\Users\criso\OneDrive\Escritorio\Nueva carpeta (5)\INF-325-2024-3\INF-325-2024-3\Presentation\bin\Debug\net8.0-windows\DataAccess.dll
+C:\Users\criso\OneDrive\Escritorio\Nueva carpeta (5)\INF-325-2024-3\INF-325-2024-3\Presentation\bin\Debug\net8.0-windows\BusinessLogic.pdb
+C:\Users\criso\OneDrive\Escritorio\Nueva carpeta (5)\INF-325-2024-3\INF-325-2024-3\Presentation\bin\Debug\net8.0-windows\DataAccess.pdb
+C:\Users\criso\OneDrive\Escritorio\Nueva carpeta (5)\INF-325-2024-3\INF-325-2024-3\Presentation\obj\Debug\net8.0-windows\Presentation.csproj.AssemblyReference.cache
+C:\Users\criso\OneDrive\Escritorio\Nueva carpeta (5)\INF-325-2024-3\INF-325-2024-3\Presentation\obj\Debug\net8.0-windows\Presentation.Administracion.resources
+C:\Users\criso\OneDrive\Escritorio\Nueva carpeta (5)\INF-325-2024-3\INF-325-2024-3\Presentation\obj\Debug\net8.0-windows\Presentation.ATS.resources
+C:\Users\criso\OneDrive\Escritorio\Nueva carpeta (5)\INF-325-2024-3\INF-325-2024-3\Presentation\obj\Debug\net8.0-windows\Presentation.ATSZona.resources
+C:\Users\criso\OneDrive\Escritorio\Nueva carpeta (5)\INF-325-2024-3\INF-325-2024-3\Presentation\obj\Debug\net8.0-windows\Presentation.Auxiliares.resources
+C:\Users\criso\OneDrive\Escritorio\Nueva carpeta (5)\INF-325-2024-3\INF-325-2024-3\Presentation\obj\Debug\net8.0-windows\Presentation.Celadores.resources
+C:\Users\criso\OneDrive\Escritorio\Nueva carpeta (5)\INF-325-2024-3\INF-325-2024-3\Presentation\obj\Debug\net8.0-windows\Presentation.Consultas.resources
+C:\Users\criso\OneDrive\Escritorio\Nueva carpeta (5)\INF-325-2024-3\INF-325-2024-3\Presentation\obj\Debug\net8.0-windows\Presentation.Main.resources
+C:\Users\criso\OneDrive\Escritorio\Nueva carpeta (5)\INF-325-2024-3\INF-325-2024-3\Presentation\obj\Debug\net8.0-windows\Presentation.Medicos.resources
+C:\Users\criso\OneDrive\Escritorio\Nueva carpeta (5)\INF-325-2024-3\INF-325-2024-3\Presentation\obj\Debug\net8.0-windows\Presentation.Paciente.resources
+C:\Users\criso\OneDrive\Escritorio\Nueva carpeta (5)\INF-325-2024-3\INF-325-2024-3\Presentation\obj\Debug\net8.0-windows\Presentation.Properties.Resources.resources
+C:\Users\criso\OneDrive\Escritorio\Nueva carpeta (5)\INF-325-2024-3\INF-325-2024-3\Presentation\obj\Debug\net8.0-windows\Presentation.Sustituciones.resources
+C:\Users\criso\OneDrive\Escritorio\Nueva carpeta (5)\INF-325-2024-3\INF-325-2024-3\Presentation\obj\Debug\net8.0-windows\Presentation.VACAdmin.resources
+C:\Users\criso\OneDrive\Escritorio\Nueva carpeta (5)\INF-325-2024-3\INF-325-2024-3\Presentation\obj\Debug\net8.0-windows\Presentation.VACATS.resources
+C:\Users\criso\OneDrive\Escritorio\Nueva carpeta (5)\INF-325-2024-3\INF-325-2024-3\Presentation\obj\Debug\net8.0-windows\Presentation.VACATSZona.resources
+C:\Users\criso\OneDrive\Escritorio\Nueva carpeta (5)\INF-325-2024-3\INF-325-2024-3\Presentation\obj\Debug\net8.0-windows\Presentation.VACAuxiliar.resources
+C:\Users\criso\OneDrive\Escritorio\Nueva carpeta (5)\INF-325-2024-3\INF-325-2024-3\Presentation\obj\Debug\net8.0-windows\Presentation.VACMedicos.resources
+C:\Users\criso\OneDrive\Escritorio\Nueva carpeta (5)\INF-325-2024-3\INF-325-2024-3\Presentation\obj\Debug\net8.0-windows\Presentation.csproj.GenerateResource.cache
+C:\Users\criso\OneDrive\Escritorio\Nueva carpeta (5)\INF-325-2024-3\INF-325-2024-3\Presentation\obj\Debug\net8.0-windows\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\criso\OneDrive\Escritorio\Nueva carpeta (5)\INF-325-2024-3\INF-325-2024-3\Presentation\obj\Debug\net8.0-windows\Presentation.AssemblyInfoInputs.cache
+C:\Users\criso\OneDrive\Escritorio\Nueva carpeta (5)\INF-325-2024-3\INF-325-2024-3\Presentation\obj\Debug\net8.0-windows\Presentation.AssemblyInfo.cs
+C:\Users\criso\OneDrive\Escritorio\Nueva carpeta (5)\INF-325-2024-3\INF-325-2024-3\Presentation\obj\Debug\net8.0-windows\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\criso\OneDrive\Escritorio\Nueva carpeta (5)\INF-325-2024-3\INF-325-2024-3\Presentation\obj\Debug\net8.0-windows\Presentation.csproj.CopyComplete
+C:\Users\criso\OneDrive\Escritorio\Nueva carpeta (5)\INF-325-2024-3\INF-325-2024-3\Presentation\obj\Debug\net8.0-windows\Presentation.dll
+C:\Users\criso\OneDrive\Escritorio\Nueva carpeta (5)\INF-325-2024-3\INF-325-2024-3\Presentation\obj\Debug\net8.0-windows\refint\Presentation.dll
+C:\Users\criso\OneDrive\Escritorio\Nueva carpeta (5)\INF-325-2024-3\INF-325-2024-3\Presentation\obj\Debug\net8.0-windows\Presentation.pdb
+C:\Users\criso\OneDrive\Escritorio\Nueva carpeta (5)\INF-325-2024-3\INF-325-2024-3\Presentation\obj\Debug\net8.0-windows\Presentation.genruntimeconfig.cache
+C:\Users\criso\OneDrive\Escritorio\Nueva carpeta (5)\INF-325-2024-3\INF-325-2024-3\Presentation\obj\Debug\net8.0-windows\ref\Presentation.dll
+C:\Users\criso\OneDrive\Escritorio\Nueva carpeta (5)\INF-325-2024-3\INF-325-2024-3\Presentation\obj\Debug\net8.0-windows\Presentation.Pacientes.Agregar.resources
+C:\Users\criso\OneDrive\Escritorio\Nueva carpeta (5)\INF-325-2024-3\INF-325-2024-3\Presentation\obj\Debug\net8.0-windows\Presentation.Pacientes.Editar.resources

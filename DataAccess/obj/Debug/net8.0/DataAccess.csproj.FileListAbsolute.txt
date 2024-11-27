@@ -1,0 +1,36 @@
+C:\Users\dacosta\source\repos\INF-325-2024-3\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+C:\Users\dacosta\source\repos\INF-325-2024-3\DataAccess\bin\Debug\net8.0\DataAccess.dll
+C:\Users\dacosta\source\repos\INF-325-2024-3\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+C:\Users\dacosta\source\repos\INF-325-2024-3\DataAccess\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\dacosta\source\repos\INF-325-2024-3\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dacosta\source\repos\INF-325-2024-3\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\dacosta\source\repos\INF-325-2024-3\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+C:\Users\dacosta\source\repos\INF-325-2024-3\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\dacosta\source\repos\INF-325-2024-3\DataAccess\obj\Debug\net8.0\DataAccess.dll
+C:\Users\dacosta\source\repos\INF-325-2024-3\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+C:\Users\dacosta\source\repos\INF-325-2024-3\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+C:\Users\dacosta\source\repos\INF-325-2024-3\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
+C:\Users\criso\OneDrive\Escritorio\Proyecto Profesor\INF-325-2024-3\INF-325-2024-3\DataAccess\obj\Debug\net8.0\DataAccess.dll
+C:\Users\criso\OneDrive\Escritorio\Proyecto Profesor\INF-325-2024-3\INF-325-2024-3\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+C:\Users\criso\OneDrive\Escritorio\Proyecto Profesor\INF-325-2024-3\INF-325-2024-3\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+C:\Users\criso\OneDrive\Escritorio\Proyecto Profesor\INF-325-2024-3\INF-325-2024-3\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+C:\Users\criso\OneDrive\Escritorio\Proyecto Profesor\INF-325-2024-3\INF-325-2024-3\DataAccess\bin\Debug\net8.0\DataAccess.dll
+C:\Users\criso\OneDrive\Escritorio\Proyecto Profesor\INF-325-2024-3\INF-325-2024-3\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+C:\Users\criso\OneDrive\Escritorio\Proyecto Profesor\INF-325-2024-3\INF-325-2024-3\DataAccess\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\criso\OneDrive\Escritorio\Proyecto Profesor\INF-325-2024-3\INF-325-2024-3\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\criso\OneDrive\Escritorio\Proyecto Profesor\INF-325-2024-3\INF-325-2024-3\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\criso\OneDrive\Escritorio\Proyecto Profesor\INF-325-2024-3\INF-325-2024-3\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+C:\Users\criso\OneDrive\Escritorio\Proyecto Profesor\INF-325-2024-3\INF-325-2024-3\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\criso\OneDrive\Escritorio\Proyecto Profesor\INF-325-2024-3\INF-325-2024-3\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
+C:\Users\criso\OneDrive\Escritorio\Nueva carpeta (5)\INF-325-2024-3\INF-325-2024-3\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+C:\Users\criso\OneDrive\Escritorio\Nueva carpeta (5)\INF-325-2024-3\INF-325-2024-3\DataAccess\bin\Debug\net8.0\DataAccess.dll
+C:\Users\criso\OneDrive\Escritorio\Nueva carpeta (5)\INF-325-2024-3\INF-325-2024-3\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+C:\Users\criso\OneDrive\Escritorio\Nueva carpeta (5)\INF-325-2024-3\INF-325-2024-3\DataAccess\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\criso\OneDrive\Escritorio\Nueva carpeta (5)\INF-325-2024-3\INF-325-2024-3\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\criso\OneDrive\Escritorio\Nueva carpeta (5)\INF-325-2024-3\INF-325-2024-3\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\criso\OneDrive\Escritorio\Nueva carpeta (5)\INF-325-2024-3\INF-325-2024-3\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+C:\Users\criso\OneDrive\Escritorio\Nueva carpeta (5)\INF-325-2024-3\INF-325-2024-3\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\criso\OneDrive\Escritorio\Nueva carpeta (5)\INF-325-2024-3\INF-325-2024-3\DataAccess\obj\Debug\net8.0\DataAccess.dll
+C:\Users\criso\OneDrive\Escritorio\Nueva carpeta (5)\INF-325-2024-3\INF-325-2024-3\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+C:\Users\criso\OneDrive\Escritorio\Nueva carpeta (5)\INF-325-2024-3\INF-325-2024-3\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+C:\Users\criso\OneDrive\Escritorio\Nueva carpeta (5)\INF-325-2024-3\INF-325-2024-3\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
