@@ -19,7 +19,7 @@ namespace BusinessLogic
         public string? Poblacion { get; set; }
 
         public string? Provincia { get; set; }
-
+        //Doctors module
         public string? CodigoPostal { get; set; }
 
         public string? NIF { get; set; }
