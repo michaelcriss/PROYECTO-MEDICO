@@ -4,16 +4,61 @@
     <Compile Update="Empleados\Administracion.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Empleados\Administracion\Administracion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Empleados\Administracion\Agregar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Empleados\Administracion\Editar.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Empleados\ATS.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="Empleados\ATSZona.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Empleados\ATSZona\Agregar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Empleados\ATSZona\ATZona.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Empleados\ATSZona\Editar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Empleados\ATS\Agregar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Empleados\ATS\ATS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Empleados\ATS\Editar.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Empleados\Auxiliares.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Empleados\Auxiliares\Agregar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Empleados\Auxiliares\Auxiliares.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Empleados\Auxiliares\Editar.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Empleados\Celadores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Empleados\Celadores\Agregar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Empleados\Celadores\Celadores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Empleados\Celadores\Editar.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="Medicos\Medicos.cs">

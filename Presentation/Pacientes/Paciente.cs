@@ -112,7 +112,12 @@ namespace Presentation
         {
             txtId.Text = dataGridView1.SelectedCells[0].Value.ToString();
 
-            
+
+        }
+
+        private void Paciente_Load(object sender, EventArgs e)
+        {
+
         }
     }
 

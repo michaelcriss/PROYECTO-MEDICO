@@ -107,28 +107,28 @@ namespace Presentation
 
         private void button8_Click(object sender, EventArgs e)
         {
-            abrirFormHijo(new ATS());
+            abrirFormHijo(new Presentation.Empleados.ATS.ATS());
         }
 
         private void button9_Click(object sender, EventArgs e)
         {
-            abrirFormHijo(new ATSZona());
+            abrirFormHijo(new Presentation.Empleados.ATSZona.ATZona());
         }
 
 
         private void button10_Click(object sender, EventArgs e)
         {
-            abrirFormHijo(new Auxiliares());
+            abrirFormHijo(new Presentation.Empleados.Auxiliares.Auxiliares());
         }
 
         private void button11_Click(object sender, EventArgs e)
         {
-            abrirFormHijo(new Celadores());
+            abrirFormHijo(new Presentation.Empleados.Celadores.Celadores());
         }
 
         private void button12_Click(object sender, EventArgs e)
         {
-            abrirFormHijo(new Administracion());
+            abrirFormHijo(new Presentation.Empleados.Administracion.Administracion());
         }
 
         private void btnVacaciones_Click(object sender, EventArgs e)

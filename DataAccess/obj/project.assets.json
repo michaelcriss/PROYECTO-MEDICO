@@ -638,19 +638,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\criso\\.nuget\\packages\\": {}
+    "C:\\Users\\carlo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\criso\\OneDrive\\Escritorio\\Nueva carpeta (5)\\INF-325-2024-3\\INF-325-2024-3\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "C:\\REPOSITORIOS GIT\\PROYECTO-MEDICO\\DataAccess\\DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "C:\\Users\\criso\\OneDrive\\Escritorio\\Nueva carpeta (5)\\INF-325-2024-3\\INF-325-2024-3\\DataAccess\\DataAccess.csproj",
-      "packagesPath": "C:\\Users\\criso\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\criso\\OneDrive\\Escritorio\\Nueva carpeta (5)\\INF-325-2024-3\\INF-325-2024-3\\DataAccess\\obj\\",
+      "projectPath": "C:\\REPOSITORIOS GIT\\PROYECTO-MEDICO\\DataAccess\\DataAccess.csproj",
+      "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
+      "outputPath": "C:\\REPOSITORIOS GIT\\PROYECTO-MEDICO\\DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\criso\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\carlo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -670,6 +670,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -701,7 +706,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

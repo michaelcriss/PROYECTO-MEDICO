@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\criso\\OneDrive\\Escritorio\\Nueva carpeta (5)\\INF-325-2024-3\\INF-325-2024-3\\Presentation\\Presentation.csproj": {}
+    "C:\\REPOSITORIOS GIT\\PROYECTO-MEDICO\\Presentation\\Presentation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\criso\\OneDrive\\Escritorio\\Nueva carpeta (5)\\INF-325-2024-3\\INF-325-2024-3\\BusinessLogic\\BusinessLogic.csproj": {
+    "C:\\REPOSITORIOS GIT\\PROYECTO-MEDICO\\BusinessLogic\\BusinessLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\criso\\OneDrive\\Escritorio\\Nueva carpeta (5)\\INF-325-2024-3\\INF-325-2024-3\\BusinessLogic\\BusinessLogic.csproj",
+        "projectUniqueName": "C:\\REPOSITORIOS GIT\\PROYECTO-MEDICO\\BusinessLogic\\BusinessLogic.csproj",
         "projectName": "BusinessLogic",
-        "projectPath": "C:\\Users\\criso\\OneDrive\\Escritorio\\Nueva carpeta (5)\\INF-325-2024-3\\INF-325-2024-3\\BusinessLogic\\BusinessLogic.csproj",
-        "packagesPath": "C:\\Users\\criso\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\criso\\OneDrive\\Escritorio\\Nueva carpeta (5)\\INF-325-2024-3\\INF-325-2024-3\\BusinessLogic\\obj\\",
+        "projectPath": "C:\\REPOSITORIOS GIT\\PROYECTO-MEDICO\\BusinessLogic\\BusinessLogic.csproj",
+        "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
+        "outputPath": "C:\\REPOSITORIOS GIT\\PROYECTO-MEDICO\\BusinessLogic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\criso\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\carlo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\criso\\OneDrive\\Escritorio\\Nueva carpeta (5)\\INF-325-2024-3\\INF-325-2024-3\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\criso\\OneDrive\\Escritorio\\Nueva carpeta (5)\\INF-325-2024-3\\INF-325-2024-3\\DataAccess\\DataAccess.csproj"
+              "C:\\REPOSITORIOS GIT\\PROYECTO-MEDICO\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\REPOSITORIOS GIT\\PROYECTO-MEDICO\\DataAccess\\DataAccess.csproj"
               }
             }
           }
@@ -38,6 +38,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -59,21 +64,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\criso\\OneDrive\\Escritorio\\Nueva carpeta (5)\\INF-325-2024-3\\INF-325-2024-3\\DataAccess\\DataAccess.csproj": {
+    "C:\\REPOSITORIOS GIT\\PROYECTO-MEDICO\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\criso\\OneDrive\\Escritorio\\Nueva carpeta (5)\\INF-325-2024-3\\INF-325-2024-3\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\REPOSITORIOS GIT\\PROYECTO-MEDICO\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\criso\\OneDrive\\Escritorio\\Nueva carpeta (5)\\INF-325-2024-3\\INF-325-2024-3\\DataAccess\\DataAccess.csproj",
-        "packagesPath": "C:\\Users\\criso\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\criso\\OneDrive\\Escritorio\\Nueva carpeta (5)\\INF-325-2024-3\\INF-325-2024-3\\DataAccess\\obj\\",
+        "projectPath": "C:\\REPOSITORIOS GIT\\PROYECTO-MEDICO\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
+        "outputPath": "C:\\REPOSITORIOS GIT\\PROYECTO-MEDICO\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\criso\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\carlo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -93,6 +98,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -124,21 +134,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\criso\\OneDrive\\Escritorio\\Nueva carpeta (5)\\INF-325-2024-3\\INF-325-2024-3\\Presentation\\Presentation.csproj": {
+    "C:\\REPOSITORIOS GIT\\PROYECTO-MEDICO\\Presentation\\Presentation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\criso\\OneDrive\\Escritorio\\Nueva carpeta (5)\\INF-325-2024-3\\INF-325-2024-3\\Presentation\\Presentation.csproj",
+        "projectUniqueName": "C:\\REPOSITORIOS GIT\\PROYECTO-MEDICO\\Presentation\\Presentation.csproj",
         "projectName": "Presentation",
-        "projectPath": "C:\\Users\\criso\\OneDrive\\Escritorio\\Nueva carpeta (5)\\INF-325-2024-3\\INF-325-2024-3\\Presentation\\Presentation.csproj",
-        "packagesPath": "C:\\Users\\criso\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\criso\\OneDrive\\Escritorio\\Nueva carpeta (5)\\INF-325-2024-3\\INF-325-2024-3\\Presentation\\obj\\",
+        "projectPath": "C:\\REPOSITORIOS GIT\\PROYECTO-MEDICO\\Presentation\\Presentation.csproj",
+        "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
+        "outputPath": "C:\\REPOSITORIOS GIT\\PROYECTO-MEDICO\\Presentation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\criso\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\carlo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -152,8 +162,8 @@
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "C:\\Users\\criso\\OneDrive\\Escritorio\\Nueva carpeta (5)\\INF-325-2024-3\\INF-325-2024-3\\BusinessLogic\\BusinessLogic.csproj": {
-                "projectPath": "C:\\Users\\criso\\OneDrive\\Escritorio\\Nueva carpeta (5)\\INF-325-2024-3\\INF-325-2024-3\\BusinessLogic\\BusinessLogic.csproj"
+              "C:\\REPOSITORIOS GIT\\PROYECTO-MEDICO\\BusinessLogic\\BusinessLogic.csproj": {
+                "projectPath": "C:\\REPOSITORIOS GIT\\PROYECTO-MEDICO\\BusinessLogic\\BusinessLogic.csproj"
               }
             }
           }
@@ -162,6 +172,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -186,7 +201,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

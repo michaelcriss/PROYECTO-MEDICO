@@ -674,19 +674,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\criso\\.nuget\\packages\\": {}
+    "C:\\Users\\carlo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\criso\\OneDrive\\Escritorio\\Nueva carpeta (5)\\INF-325-2024-3\\INF-325-2024-3\\Presentation\\Presentation.csproj",
+      "projectUniqueName": "C:\\REPOSITORIOS GIT\\PROYECTO-MEDICO\\Presentation\\Presentation.csproj",
       "projectName": "Presentation",
-      "projectPath": "C:\\Users\\criso\\OneDrive\\Escritorio\\Nueva carpeta (5)\\INF-325-2024-3\\INF-325-2024-3\\Presentation\\Presentation.csproj",
-      "packagesPath": "C:\\Users\\criso\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\criso\\OneDrive\\Escritorio\\Nueva carpeta (5)\\INF-325-2024-3\\INF-325-2024-3\\Presentation\\obj\\",
+      "projectPath": "C:\\REPOSITORIOS GIT\\PROYECTO-MEDICO\\Presentation\\Presentation.csproj",
+      "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
+      "outputPath": "C:\\REPOSITORIOS GIT\\PROYECTO-MEDICO\\Presentation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\criso\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\carlo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -700,8 +700,8 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "C:\\Users\\criso\\OneDrive\\Escritorio\\Nueva carpeta (5)\\INF-325-2024-3\\INF-325-2024-3\\BusinessLogic\\BusinessLogic.csproj": {
-              "projectPath": "C:\\Users\\criso\\OneDrive\\Escritorio\\Nueva carpeta (5)\\INF-325-2024-3\\INF-325-2024-3\\BusinessLogic\\BusinessLogic.csproj"
+            "C:\\REPOSITORIOS GIT\\PROYECTO-MEDICO\\BusinessLogic\\BusinessLogic.csproj": {
+              "projectPath": "C:\\REPOSITORIOS GIT\\PROYECTO-MEDICO\\BusinessLogic\\BusinessLogic.csproj"
             }
           }
         }
@@ -710,6 +710,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -734,7 +739,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
