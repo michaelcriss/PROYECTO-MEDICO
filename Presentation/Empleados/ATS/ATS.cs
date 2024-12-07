@@ -41,7 +41,8 @@ namespace Presentation.Empleados.ATS
                       "OR ATS.NIF LIKE ('" + txtBuscar.Text + "%') " +
                       "OR ATS.NUMSS LIKE ('" + txtBuscar.Text + "%')";
 
-                //ya tu sabe
+                //ya tu sabe en la misma tu sabe
+            
 
 
                 DA dbAcess = new DA();
