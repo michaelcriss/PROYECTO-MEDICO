@@ -194,5 +194,10 @@ namespace Presentation
                 MessageBox.Show(ex.Message);
             }
         }
+
+        private void VACATS_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
