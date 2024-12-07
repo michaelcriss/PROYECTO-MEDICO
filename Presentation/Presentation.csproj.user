@@ -40,16 +40,61 @@
     <Compile Update="Vacaciones\VACAdmin.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Vacaciones\VACAdmin\AgregarVADM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vacaciones\VACAdmin\EditarVADM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vacaciones\VACAdmin\VacacionesADM.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Vacaciones\VACATS.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="Vacaciones\VACATSZona.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Vacaciones\VACATSZona\AgregarVATSZONA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vacaciones\VACATSZona\EditarVATSZONA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vacaciones\VACATSZona\VacacionesATSZona.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vacaciones\VACATS\AgregarVATS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vacaciones\VACATS\EditarVATS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vacaciones\VACATS\VacacionesATS.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Vacaciones\VACAuxiliar.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Vacaciones\VACAuxiliar\AgregarVAUXILIAR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vacaciones\VACAuxiliar\EditarVAUXILIAR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vacaciones\VACAuxiliar\VacacionesAUX.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Vacaciones\VACMedicos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vacaciones\VACMedicos\AgregarVAME.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vacaciones\VACMedicos\EditarVAME.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vacaciones\VACMedicos\VacacionesME.cs">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>

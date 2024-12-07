@@ -56,7 +56,7 @@ namespace Presentation
         {
             try
             {
-                AdministracionCL admin = new AdministracionCL();        
+                AdministracionCL admin = new AdministracionCL();
                 if (!string.IsNullOrEmpty(txtId.Text))
                 {
                     int id = int.Parse(txtId.Text);
@@ -146,6 +146,11 @@ namespace Presentation
             {
                 MessageBox.Show(ex.Message);
             }
+        }
+
+        private void Administracion_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

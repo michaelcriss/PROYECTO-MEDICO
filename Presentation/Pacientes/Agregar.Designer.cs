@@ -53,9 +53,10 @@
             button3.FlatAppearance.BorderSize = 0;
             button3.FlatStyle = FlatStyle.Flat;
             button3.ForeColor = Color.Gainsboro;
-            button3.Location = new Point(355, 134);
+            button3.Location = new Point(311, 100);
+            button3.Margin = new Padding(3, 2, 3, 2);
             button3.Name = "button3";
-            button3.Size = new Size(101, 33);
+            button3.Size = new Size(88, 25);
             button3.TabIndex = 90;
             button3.Text = "Cancelar";
             button3.UseVisualStyleBackColor = false;
@@ -68,9 +69,10 @@
             button2.FlatAppearance.BorderSize = 0;
             button2.FlatStyle = FlatStyle.Flat;
             button2.ForeColor = Color.Gainsboro;
-            button2.Location = new Point(248, 134);
+            button2.Location = new Point(217, 100);
+            button2.Margin = new Padding(3, 2, 3, 2);
             button2.Name = "button2";
-            button2.Size = new Size(101, 33);
+            button2.Size = new Size(88, 25);
             button2.TabIndex = 87;
             button2.Text = "Agregar";
             button2.UseVisualStyleBackColor = false;
@@ -84,18 +86,19 @@
             cmbMedico.BackColor = Color.FromArgb(192, 192, 255);
             cmbMedico.FlatStyle = FlatStyle.Flat;
             cmbMedico.FormattingEnabled = true;
-            cmbMedico.Location = new Point(75, 137);
+            cmbMedico.Location = new Point(66, 103);
+            cmbMedico.Margin = new Padding(3, 2, 3, 2);
             cmbMedico.Name = "cmbMedico";
-            cmbMedico.Size = new Size(138, 28);
+            cmbMedico.Size = new Size(121, 23);
             cmbMedico.TabIndex = 85;
             // 
             // label8
             // 
             label8.Anchor = AnchorStyles.Right;
             label8.AutoSize = true;
-            label8.Location = new Point(5, 140);
+            label8.Location = new Point(4, 105);
             label8.Name = "label8";
-            label8.Size = new Size(59, 20);
+            label8.Size = new Size(47, 15);
             label8.TabIndex = 83;
             label8.Text = "Medico";
             // 
@@ -103,9 +106,9 @@
             // 
             label7.Anchor = AnchorStyles.Right;
             label7.AutoSize = true;
-            label7.Location = new Point(195, 96);
+            label7.Location = new Point(171, 72);
             label7.Name = "label7";
-            label7.Size = new Size(67, 20);
+            label7.Size = new Size(53, 15);
             label7.TabIndex = 82;
             label7.Text = "No. INSS";
             // 
@@ -114,18 +117,19 @@
             txtSeguridadSocial.Anchor = AnchorStyles.Right;
             txtSeguridadSocial.BackColor = Color.FromArgb(192, 192, 255);
             txtSeguridadSocial.BorderStyle = BorderStyle.None;
-            txtSeguridadSocial.Location = new Point(268, 96);
+            txtSeguridadSocial.Location = new Point(234, 72);
+            txtSeguridadSocial.Margin = new Padding(3, 2, 3, 2);
             txtSeguridadSocial.Name = "txtSeguridadSocial";
-            txtSeguridadSocial.Size = new Size(185, 20);
+            txtSeguridadSocial.Size = new Size(162, 16);
             txtSeguridadSocial.TabIndex = 81;
             // 
             // label6
             // 
             label6.Anchor = AnchorStyles.Right;
             label6.AutoSize = true;
-            label6.Location = new Point(5, 96);
+            label6.Location = new Point(4, 72);
             label6.Name = "label6";
-            label6.Size = new Size(31, 20);
+            label6.Size = new Size(25, 15);
             label6.TabIndex = 80;
             label6.Text = "NIF";
             // 
@@ -134,18 +138,19 @@
             txtNIF.Anchor = AnchorStyles.Right;
             txtNIF.BackColor = Color.FromArgb(192, 192, 255);
             txtNIF.BorderStyle = BorderStyle.None;
-            txtNIF.Location = new Point(47, 96);
+            txtNIF.Location = new Point(41, 72);
+            txtNIF.Margin = new Padding(3, 2, 3, 2);
             txtNIF.Name = "txtNIF";
-            txtNIF.Size = new Size(125, 20);
+            txtNIF.Size = new Size(109, 16);
             txtNIF.TabIndex = 79;
             // 
             // label5
             // 
             label5.Anchor = AnchorStyles.Right;
             label5.AutoSize = true;
-            label5.Location = new Point(5, 63);
+            label5.Location = new Point(4, 47);
             label5.Name = "label5";
-            label5.Size = new Size(101, 20);
+            label5.Size = new Size(81, 15);
             label5.TabIndex = 78;
             label5.Text = "Codigo Postal";
             // 
@@ -154,18 +159,19 @@
             txtCodigoPostal.Anchor = AnchorStyles.Right;
             txtCodigoPostal.BackColor = Color.FromArgb(192, 192, 255);
             txtCodigoPostal.BorderStyle = BorderStyle.None;
-            txtCodigoPostal.Location = new Point(112, 63);
+            txtCodigoPostal.Location = new Point(98, 47);
+            txtCodigoPostal.Margin = new Padding(3, 2, 3, 2);
             txtCodigoPostal.Name = "txtCodigoPostal";
-            txtCodigoPostal.Size = new Size(125, 20);
+            txtCodigoPostal.Size = new Size(109, 16);
             txtCodigoPostal.TabIndex = 77;
             // 
             // label4
             // 
             label4.Anchor = AnchorStyles.Right;
             label4.AutoSize = true;
-            label4.Location = new Point(255, 63);
+            label4.Location = new Point(223, 47);
             label4.Name = "label4";
-            label4.Size = new Size(67, 20);
+            label4.Size = new Size(52, 15);
             label4.TabIndex = 76;
             label4.Text = "Telefono";
             // 
@@ -174,18 +180,19 @@
             txtTelefono.Anchor = AnchorStyles.Right;
             txtTelefono.BackColor = Color.FromArgb(192, 192, 255);
             txtTelefono.BorderStyle = BorderStyle.None;
-            txtTelefono.Location = new Point(328, 63);
+            txtTelefono.Location = new Point(287, 47);
+            txtTelefono.Margin = new Padding(3, 2, 3, 2);
             txtTelefono.Name = "txtTelefono";
-            txtTelefono.Size = new Size(125, 20);
+            txtTelefono.Size = new Size(109, 16);
             txtTelefono.TabIndex = 75;
             // 
             // label2
             // 
             label2.Anchor = AnchorStyles.Right;
             label2.AutoSize = true;
-            label2.Location = new Point(223, 27);
+            label2.Location = new Point(195, 20);
             label2.Name = "label2";
-            label2.Size = new Size(72, 20);
+            label2.Size = new Size(57, 15);
             label2.TabIndex = 74;
             label2.Text = "Direccion";
             // 
@@ -194,18 +201,19 @@
             txtDireccion.Anchor = AnchorStyles.Right;
             txtDireccion.BackColor = Color.FromArgb(192, 192, 255);
             txtDireccion.BorderStyle = BorderStyle.None;
-            txtDireccion.Location = new Point(301, 27);
+            txtDireccion.Location = new Point(263, 20);
+            txtDireccion.Margin = new Padding(3, 2, 3, 2);
             txtDireccion.Name = "txtDireccion";
-            txtDireccion.Size = new Size(152, 20);
+            txtDireccion.Size = new Size(133, 16);
             txtDireccion.TabIndex = 73;
             // 
             // label1
             // 
             label1.Anchor = AnchorStyles.Right;
             label1.AutoSize = true;
-            label1.Location = new Point(5, 27);
+            label1.Location = new Point(4, 20);
             label1.Name = "label1";
-            label1.Size = new Size(64, 20);
+            label1.Size = new Size(51, 15);
             label1.TabIndex = 72;
             label1.Text = "Nombre";
             // 
@@ -214,17 +222,19 @@
             txtNombre.Anchor = AnchorStyles.Right;
             txtNombre.BackColor = Color.FromArgb(192, 192, 255);
             txtNombre.BorderStyle = BorderStyle.None;
-            txtNombre.Location = new Point(75, 27);
+            txtNombre.Location = new Point(66, 20);
+            txtNombre.Margin = new Padding(3, 2, 3, 2);
             txtNombre.Name = "txtNombre";
-            txtNombre.Size = new Size(125, 20);
+            txtNombre.Size = new Size(109, 16);
             txtNombre.TabIndex = 71;
+            txtNombre.TextChanged += txtNombre_TextChanged;
             // 
             // Agregar
             // 
-            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.FromArgb(23, 21, 32);
-            ClientSize = new Size(468, 192);
+            ClientSize = new Size(410, 144);
             Controls.Add(button3);
             Controls.Add(button2);
             Controls.Add(cmbMedico);
@@ -243,6 +253,7 @@
             Controls.Add(txtNombre);
             ForeColor = Color.Gainsboro;
             FormBorderStyle = FormBorderStyle.SizableToolWindow;
+            Margin = new Padding(3, 2, 3, 2);
             Name = "Agregar";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Agregar";

@@ -43,7 +43,7 @@ namespace Presentation.Pacientes
 
                 if (pacientes.Add())
                 {
-                 
+
                     MessageBox.Show("Los datos fueron registrado correctamente");
                     Vaciar();
                 }
@@ -73,6 +73,11 @@ namespace Presentation.Pacientes
             txtDireccion.Clear();
             txtTelefono.Clear();
             txtCodigoPostal.Clear();
+        }
+
+        private void txtNombre_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

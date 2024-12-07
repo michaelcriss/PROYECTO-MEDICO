@@ -79,8 +79,9 @@
             panelSideMenu.Controls.Add(panelLogo);
             panelSideMenu.Dock = DockStyle.Left;
             panelSideMenu.Location = new Point(0, 0);
+            panelSideMenu.Margin = new Padding(3, 2, 3, 2);
             panelSideMenu.Name = "panelSideMenu";
-            panelSideMenu.Size = new Size(250, 516);
+            panelSideMenu.Size = new Size(219, 387);
             panelSideMenu.TabIndex = 0;
             // 
             // btnHorario
@@ -93,9 +94,10 @@
             btnHorario.ForeColor = Color.Gainsboro;
             btnHorario.Image = (Image)resources.GetObject("btnHorario.Image");
             btnHorario.ImageAlign = ContentAlignment.MiddleLeft;
-            btnHorario.Location = new Point(0, 761);
+            btnHorario.Location = new Point(0, 572);
+            btnHorario.Margin = new Padding(3, 2, 3, 2);
             btnHorario.Name = "btnHorario";
-            btnHorario.Size = new Size(250, 45);
+            btnHorario.Size = new Size(219, 34);
             btnHorario.TabIndex = 11;
             btnHorario.Text = "Horarios";
             btnHorario.UseVisualStyleBackColor = true;
@@ -111,9 +113,10 @@
             panelSubMenuVacaciones.Controls.Add(button15);
             panelSubMenuVacaciones.Controls.Add(button14);
             panelSubMenuVacaciones.Dock = DockStyle.Top;
-            panelSubMenuVacaciones.Location = new Point(0, 514);
+            panelSubMenuVacaciones.Location = new Point(0, 387);
+            panelSubMenuVacaciones.Margin = new Padding(3, 2, 3, 2);
             panelSubMenuVacaciones.Name = "panelSubMenuVacaciones";
-            panelSubMenuVacaciones.Size = new Size(250, 247);
+            panelSubMenuVacaciones.Size = new Size(219, 185);
             panelSubMenuVacaciones.TabIndex = 10;
             // 
             // button19
@@ -122,9 +125,10 @@
             button19.FlatAppearance.BorderSize = 0;
             button19.FlatStyle = FlatStyle.Flat;
             button19.ForeColor = Color.Gainsboro;
-            button19.Location = new Point(0, 200);
+            button19.Location = new Point(0, 150);
+            button19.Margin = new Padding(3, 2, 3, 2);
             button19.Name = "button19";
-            button19.Size = new Size(250, 40);
+            button19.Size = new Size(219, 30);
             button19.TabIndex = 5;
             button19.Text = "Administracion";
             button19.UseVisualStyleBackColor = true;
@@ -136,9 +140,10 @@
             button18.FlatAppearance.BorderSize = 0;
             button18.FlatStyle = FlatStyle.Flat;
             button18.ForeColor = Color.Gainsboro;
-            button18.Location = new Point(0, 160);
+            button18.Location = new Point(0, 120);
+            button18.Margin = new Padding(3, 2, 3, 2);
             button18.Name = "button18";
-            button18.Size = new Size(250, 40);
+            button18.Size = new Size(219, 30);
             button18.TabIndex = 4;
             button18.Text = "Celadores";
             button18.UseVisualStyleBackColor = true;
@@ -149,9 +154,10 @@
             button17.FlatAppearance.BorderSize = 0;
             button17.FlatStyle = FlatStyle.Flat;
             button17.ForeColor = Color.Gainsboro;
-            button17.Location = new Point(0, 120);
+            button17.Location = new Point(0, 90);
+            button17.Margin = new Padding(3, 2, 3, 2);
             button17.Name = "button17";
-            button17.Size = new Size(250, 40);
+            button17.Size = new Size(219, 30);
             button17.TabIndex = 3;
             button17.Text = "Auxiliares Enfermeria";
             button17.UseVisualStyleBackColor = true;
@@ -163,9 +169,10 @@
             button16.FlatAppearance.BorderSize = 0;
             button16.FlatStyle = FlatStyle.Flat;
             button16.ForeColor = Color.Gainsboro;
-            button16.Location = new Point(0, 80);
+            button16.Location = new Point(0, 60);
+            button16.Margin = new Padding(3, 2, 3, 2);
             button16.Name = "button16";
-            button16.Size = new Size(250, 40);
+            button16.Size = new Size(219, 30);
             button16.TabIndex = 2;
             button16.Text = "ATS Zona";
             button16.UseVisualStyleBackColor = true;
@@ -177,9 +184,10 @@
             button15.FlatAppearance.BorderSize = 0;
             button15.FlatStyle = FlatStyle.Flat;
             button15.ForeColor = Color.Gainsboro;
-            button15.Location = new Point(0, 40);
+            button15.Location = new Point(0, 30);
+            button15.Margin = new Padding(3, 2, 3, 2);
             button15.Name = "button15";
-            button15.Size = new Size(250, 40);
+            button15.Size = new Size(219, 30);
             button15.TabIndex = 1;
             button15.Text = "ATS";
             button15.UseVisualStyleBackColor = true;
@@ -192,8 +200,9 @@
             button14.FlatStyle = FlatStyle.Flat;
             button14.ForeColor = Color.Gainsboro;
             button14.Location = new Point(0, 0);
+            button14.Margin = new Padding(3, 2, 3, 2);
             button14.Name = "button14";
-            button14.Size = new Size(250, 40);
+            button14.Size = new Size(219, 30);
             button14.TabIndex = 0;
             button14.Text = "Medicos";
             button14.UseVisualStyleBackColor = true;
@@ -209,9 +218,10 @@
             btnVacaciones.ForeColor = Color.Gainsboro;
             btnVacaciones.Image = Properties.Resources.VAC;
             btnVacaciones.ImageAlign = ContentAlignment.MiddleLeft;
-            btnVacaciones.Location = new Point(0, 469);
+            btnVacaciones.Location = new Point(0, 353);
+            btnVacaciones.Margin = new Padding(3, 2, 3, 2);
             btnVacaciones.Name = "btnVacaciones";
-            btnVacaciones.Size = new Size(250, 45);
+            btnVacaciones.Size = new Size(219, 34);
             btnVacaciones.TabIndex = 9;
             btnVacaciones.Text = "Vacaciones";
             btnVacaciones.UseVisualStyleBackColor = true;
@@ -226,9 +236,10 @@
             panelSubMenuMedia.Controls.Add(button9);
             panelSubMenuMedia.Controls.Add(button8);
             panelSubMenuMedia.Dock = DockStyle.Top;
-            panelSubMenuMedia.Location = new Point(0, 260);
+            panelSubMenuMedia.Location = new Point(0, 196);
+            panelSubMenuMedia.Margin = new Padding(3, 2, 3, 2);
             panelSubMenuMedia.Name = "panelSubMenuMedia";
-            panelSubMenuMedia.Size = new Size(250, 209);
+            panelSubMenuMedia.Size = new Size(219, 157);
             panelSubMenuMedia.TabIndex = 8;
             // 
             // button12
@@ -237,9 +248,10 @@
             button12.FlatAppearance.BorderSize = 0;
             button12.FlatStyle = FlatStyle.Flat;
             button12.ForeColor = Color.Gainsboro;
-            button12.Location = new Point(0, 160);
+            button12.Location = new Point(0, 120);
+            button12.Margin = new Padding(3, 2, 3, 2);
             button12.Name = "button12";
-            button12.Size = new Size(250, 40);
+            button12.Size = new Size(219, 30);
             button12.TabIndex = 4;
             button12.Text = "Administracion";
             button12.UseVisualStyleBackColor = true;
@@ -251,9 +263,10 @@
             button11.FlatAppearance.BorderSize = 0;
             button11.FlatStyle = FlatStyle.Flat;
             button11.ForeColor = Color.Gainsboro;
-            button11.Location = new Point(0, 120);
+            button11.Location = new Point(0, 90);
+            button11.Margin = new Padding(3, 2, 3, 2);
             button11.Name = "button11";
-            button11.Size = new Size(250, 40);
+            button11.Size = new Size(219, 30);
             button11.TabIndex = 3;
             button11.Text = "Celadores";
             button11.UseVisualStyleBackColor = true;
@@ -265,9 +278,10 @@
             button10.FlatAppearance.BorderSize = 0;
             button10.FlatStyle = FlatStyle.Flat;
             button10.ForeColor = Color.Gainsboro;
-            button10.Location = new Point(0, 80);
+            button10.Location = new Point(0, 60);
+            button10.Margin = new Padding(3, 2, 3, 2);
             button10.Name = "button10";
-            button10.Size = new Size(250, 40);
+            button10.Size = new Size(219, 30);
             button10.TabIndex = 2;
             button10.Text = "Auxiliares Enfermeria";
             button10.UseVisualStyleBackColor = true;
@@ -279,9 +293,10 @@
             button9.FlatAppearance.BorderSize = 0;
             button9.FlatStyle = FlatStyle.Flat;
             button9.ForeColor = Color.Gainsboro;
-            button9.Location = new Point(0, 40);
+            button9.Location = new Point(0, 30);
+            button9.Margin = new Padding(3, 2, 3, 2);
             button9.Name = "button9";
-            button9.Size = new Size(250, 40);
+            button9.Size = new Size(219, 30);
             button9.TabIndex = 1;
             button9.Text = "ATS Zona";
             button9.UseVisualStyleBackColor = true;
@@ -294,8 +309,9 @@
             button8.FlatStyle = FlatStyle.Flat;
             button8.ForeColor = Color.Gainsboro;
             button8.Location = new Point(0, 0);
+            button8.Margin = new Padding(3, 2, 3, 2);
             button8.Name = "button8";
-            button8.Size = new Size(250, 40);
+            button8.Size = new Size(219, 30);
             button8.TabIndex = 0;
             button8.Text = "ATS";
             button8.UseVisualStyleBackColor = true;
@@ -311,9 +327,10 @@
             btnEmpleados.ForeColor = Color.Gainsboro;
             btnEmpleados.Image = Properties.Resources.EMP;
             btnEmpleados.ImageAlign = ContentAlignment.MiddleLeft;
-            btnEmpleados.Location = new Point(0, 215);
+            btnEmpleados.Location = new Point(0, 162);
+            btnEmpleados.Margin = new Padding(3, 2, 3, 2);
             btnEmpleados.Name = "btnEmpleados";
-            btnEmpleados.Size = new Size(250, 45);
+            btnEmpleados.Size = new Size(219, 34);
             btnEmpleados.TabIndex = 7;
             btnEmpleados.Text = "Empleados";
             btnEmpleados.UseVisualStyleBackColor = true;
@@ -326,9 +343,10 @@
             button6.FlatStyle = FlatStyle.Popup;
             button6.Font = new Font("Segoe UI", 12F);
             button6.ForeColor = Color.Gainsboro;
-            button6.Location = new Point(0, 467);
+            button6.Location = new Point(0, 350);
+            button6.Margin = new Padding(3, 2, 3, 2);
             button6.Name = "button6";
-            button6.Size = new Size(250, 49);
+            button6.Size = new Size(219, 37);
             button6.TabIndex = 6;
             button6.Text = "Salir";
             button6.UseVisualStyleBackColor = false;
@@ -344,9 +362,10 @@
             button2.ForeColor = Color.Gainsboro;
             button2.Image = Properties.Resources.MEDICO;
             button2.ImageAlign = ContentAlignment.MiddleLeft;
-            button2.Location = new Point(0, 170);
+            button2.Location = new Point(0, 128);
+            button2.Margin = new Padding(3, 2, 3, 2);
             button2.Name = "button2";
-            button2.Size = new Size(250, 45);
+            button2.Size = new Size(219, 34);
             button2.TabIndex = 2;
             button2.Text = "Medicos";
             button2.UseVisualStyleBackColor = true;
@@ -362,10 +381,11 @@
             button1.ForeColor = Color.Gainsboro;
             button1.Image = (Image)resources.GetObject("button1.Image");
             button1.ImageAlign = ContentAlignment.MiddleLeft;
-            button1.Location = new Point(0, 125);
+            button1.Location = new Point(0, 94);
+            button1.Margin = new Padding(3, 2, 3, 2);
             button1.Name = "button1";
             button1.RightToLeft = RightToLeft.No;
-            button1.Size = new Size(250, 45);
+            button1.Size = new Size(219, 34);
             button1.TabIndex = 1;
             button1.Text = "Pacientes";
             button1.UseVisualStyleBackColor = true;
@@ -377,17 +397,19 @@
             panelLogo.Controls.Add(pictureBox2);
             panelLogo.Dock = DockStyle.Top;
             panelLogo.Location = new Point(0, 0);
+            panelLogo.Margin = new Padding(3, 2, 3, 2);
             panelLogo.Name = "panelLogo";
-            panelLogo.Size = new Size(250, 125);
+            panelLogo.Size = new Size(219, 94);
             panelLogo.TabIndex = 0;
             // 
             // pictureBox3
             // 
             pictureBox3.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
             pictureBox3.Image = (Image)resources.GetObject("pictureBox3.Image");
-            pictureBox3.Location = new Point(12, 18);
+            pictureBox3.Location = new Point(10, 14);
+            pictureBox3.Margin = new Padding(3, 2, 3, 2);
             pictureBox3.Name = "pictureBox3";
-            pictureBox3.Size = new Size(232, 90);
+            pictureBox3.Size = new Size(203, 68);
             pictureBox3.SizeMode = PictureBoxSizeMode.StretchImage;
             pictureBox3.TabIndex = 1;
             pictureBox3.TabStop = false;
@@ -395,9 +417,10 @@
             // pictureBox2
             // 
             pictureBox2.Image = Properties.Resources.Logo_Proyecto;
-            pictureBox2.Location = new Point(183, 131);
+            pictureBox2.Location = new Point(160, 98);
+            pictureBox2.Margin = new Padding(3, 2, 3, 2);
             pictureBox2.Name = "pictureBox2";
-            pictureBox2.Size = new Size(294, 107);
+            pictureBox2.Size = new Size(257, 80);
             pictureBox2.TabIndex = 0;
             pictureBox2.TabStop = false;
             // 
@@ -407,36 +430,40 @@
             middlePanel.Controls.Add(panel1);
             middlePanel.Controls.Add(pictureBox1);
             middlePanel.Dock = DockStyle.Fill;
-            middlePanel.Location = new Point(250, 0);
+            middlePanel.Location = new Point(219, 0);
+            middlePanel.Margin = new Padding(3, 2, 3, 2);
             middlePanel.Name = "middlePanel";
-            middlePanel.Size = new Size(1072, 516);
+            middlePanel.Size = new Size(938, 387);
             middlePanel.TabIndex = 1;
             // 
             // panel1
             // 
             panel1.Dock = DockStyle.Bottom;
-            panel1.Location = new Point(0, 391);
+            panel1.Location = new Point(0, 293);
+            panel1.Margin = new Padding(3, 2, 3, 2);
             panel1.Name = "panel1";
-            panel1.Size = new Size(1072, 125);
+            panel1.Size = new Size(938, 94);
             panel1.TabIndex = 1;
             // 
             // pictureBox1
             // 
             pictureBox1.Anchor = AnchorStyles.None;
             pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
-            pictureBox1.Location = new Point(297, 154);
+            pictureBox1.Location = new Point(260, 116);
+            pictureBox1.Margin = new Padding(3, 2, 3, 2);
             pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(514, 244);
+            pictureBox1.Size = new Size(450, 183);
             pictureBox1.TabIndex = 0;
             pictureBox1.TabStop = false;
             // 
             // Main
             // 
-            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1322, 516);
+            ClientSize = new Size(1157, 387);
             Controls.Add(middlePanel);
             Controls.Add(panelSideMenu);
+            Margin = new Padding(3, 2, 3, 2);
             Name = "Main";
             Text = "Main";
             Load += Main_Load;
