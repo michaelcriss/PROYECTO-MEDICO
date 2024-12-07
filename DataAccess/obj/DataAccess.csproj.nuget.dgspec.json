@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\johnn\\OneDrive\\Escritorio\\CentroSaludP\\DataAccess\\DataAccess.csproj": {}
+    "C:\\REPOSITORIOS GIT\\PROYECTO-MEDICO\\DataAccess\\DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\johnn\\OneDrive\\Escritorio\\CentroSaludP\\DataAccess\\DataAccess.csproj": {
+    "C:\\REPOSITORIOS GIT\\PROYECTO-MEDICO\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\johnn\\OneDrive\\Escritorio\\CentroSaludP\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\REPOSITORIOS GIT\\PROYECTO-MEDICO\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\johnn\\OneDrive\\Escritorio\\CentroSaludP\\DataAccess\\DataAccess.csproj",
-        "packagesPath": "C:\\Users\\johnn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\johnn\\OneDrive\\Escritorio\\CentroSaludP\\DataAccess\\obj\\",
+        "projectPath": "C:\\REPOSITORIOS GIT\\PROYECTO-MEDICO\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
+        "outputPath": "C:\\REPOSITORIOS GIT\\PROYECTO-MEDICO\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\johnn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\carlo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -83,7 +82,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

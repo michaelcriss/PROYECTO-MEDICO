@@ -1,37 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\johnn\\OneDrive\\Escritorio\\CentroSaludP\\",
+  "WorkspaceRootPath": "C:\\REPOSITORIOS GIT\\PROYECTO-MEDICO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F9D9251A-2AC1-409C-9FFD-E5E3E12DD1C9}|Presentation\\Presentation.csproj|C:\\Users\\johnn\\OneDrive\\Escritorio\\CentroSaludP\\presentation\\pacientes\\editar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F9D9251A-2AC1-409C-9FFD-E5E3E12DD1C9}|Presentation\\Presentation.csproj|c:\\repositorios git\\proyecto-medico\\presentation\\pacientes\\editar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F9D9251A-2AC1-409C-9FFD-E5E3E12DD1C9}|Presentation\\Presentation.csproj|solutionrelative:presentation\\pacientes\\editar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9D9251A-2AC1-409C-9FFD-E5E3E12DD1C9}|Presentation\\Presentation.csproj|C:\\Users\\johnn\\OneDrive\\Escritorio\\CentroSaludP\\presentation\\pacientes\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F9D9251A-2AC1-409C-9FFD-E5E3E12DD1C9}|Presentation\\Presentation.csproj|C:\\REPOSITORIOS GIT\\PROYECTO-MEDICO\\presentation\\pacientes\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F9D9251A-2AC1-409C-9FFD-E5E3E12DD1C9}|Presentation\\Presentation.csproj|solutionrelative:presentation\\pacientes\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9D9251A-2AC1-409C-9FFD-E5E3E12DD1C9}|Presentation\\Presentation.csproj|c:\\users\\johnn\\onedrive\\escritorio\\centrosaludp\\presentation\\pacientes\\paciente.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F9D9251A-2AC1-409C-9FFD-E5E3E12DD1C9}|Presentation\\Presentation.csproj|c:\\repositorios git\\proyecto-medico\\presentation\\pacientes\\paciente.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F9D9251A-2AC1-409C-9FFD-E5E3E12DD1C9}|Presentation\\Presentation.csproj|solutionrelative:presentation\\pacientes\\paciente.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9D9251A-2AC1-409C-9FFD-E5E3E12DD1C9}|Presentation\\Presentation.csproj|C:\\Users\\johnn\\OneDrive\\Escritorio\\CentroSaludP\\presentation\\vacaciones\\vacats\\editarvats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F9D9251A-2AC1-409C-9FFD-E5E3E12DD1C9}|Presentation\\Presentation.csproj|C:\\REPOSITORIOS GIT\\PROYECTO-MEDICO\\presentation\\vacaciones\\vacats\\editarvats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F9D9251A-2AC1-409C-9FFD-E5E3E12DD1C9}|Presentation\\Presentation.csproj|solutionrelative:presentation\\vacaciones\\vacats\\editarvats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9D9251A-2AC1-409C-9FFD-E5E3E12DD1C9}|Presentation\\Presentation.csproj|C:\\Users\\johnn\\OneDrive\\Escritorio\\CentroSaludP\\presentation\\vacaciones\\vacadmin\\agregarvadm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F9D9251A-2AC1-409C-9FFD-E5E3E12DD1C9}|Presentation\\Presentation.csproj|C:\\REPOSITORIOS GIT\\PROYECTO-MEDICO\\presentation\\vacaciones\\vacadmin\\agregarvadm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F9D9251A-2AC1-409C-9FFD-E5E3E12DD1C9}|Presentation\\Presentation.csproj|solutionrelative:presentation\\vacaciones\\vacadmin\\agregarvadm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9D9251A-2AC1-409C-9FFD-E5E3E12DD1C9}|Presentation\\Presentation.csproj|C:\\Users\\johnn\\OneDrive\\Escritorio\\CentroSaludP\\presentation\\vacaciones\\vacadmin\\editarvadm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F9D9251A-2AC1-409C-9FFD-E5E3E12DD1C9}|Presentation\\Presentation.csproj|C:\\REPOSITORIOS GIT\\PROYECTO-MEDICO\\presentation\\vacaciones\\vacadmin\\editarvadm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F9D9251A-2AC1-409C-9FFD-E5E3E12DD1C9}|Presentation\\Presentation.csproj|solutionrelative:presentation\\vacaciones\\vacadmin\\editarvadm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9D9251A-2AC1-409C-9FFD-E5E3E12DD1C9}|Presentation\\Presentation.csproj|C:\\Users\\johnn\\OneDrive\\Escritorio\\CentroSaludP\\presentation\\pacientes\\agregar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F9D9251A-2AC1-409C-9FFD-E5E3E12DD1C9}|Presentation\\Presentation.csproj|C:\\REPOSITORIOS GIT\\PROYECTO-MEDICO\\presentation\\pacientes\\agregar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F9D9251A-2AC1-409C-9FFD-E5E3E12DD1C9}|Presentation\\Presentation.csproj|solutionrelative:presentation\\pacientes\\agregar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9D9251A-2AC1-409C-9FFD-E5E3E12DD1C9}|Presentation\\Presentation.csproj|C:\\Users\\johnn\\OneDrive\\Escritorio\\CentroSaludP\\presentation\\vacaciones\\vacadmin\\vacacionesadm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F9D9251A-2AC1-409C-9FFD-E5E3E12DD1C9}|Presentation\\Presentation.csproj|C:\\REPOSITORIOS GIT\\PROYECTO-MEDICO\\presentation\\vacaciones\\vacadmin\\vacacionesadm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F9D9251A-2AC1-409C-9FFD-E5E3E12DD1C9}|Presentation\\Presentation.csproj|solutionrelative:presentation\\vacaciones\\vacadmin\\vacacionesadm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -42,98 +42,108 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 10,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "EditarVATS.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\johnn\\OneDrive\\Escritorio\\CentroSaludP\\Presentation\\Vacaciones\\VACATS\\EditarVATS.cs",
+              "DocumentMoniker": "C:\\REPOSITORIOS GIT\\PROYECTO-MEDICO\\Presentation\\Vacaciones\\VACATS\\EditarVATS.cs",
               "RelativeDocumentMoniker": "Presentation\\Vacaciones\\VACATS\\EditarVATS.cs",
               "ToolTip": "C:\\Users\\johnn\\OneDrive\\Escritorio\\maaaaa\\Presentation\\Vacaciones\\VACATS\\EditarVATS.cs [Design]",
-              "RelativeToolTip": "..\\maaaaa\\Presentation\\Vacaciones\\VACATS\\EditarVATS.cs [Design]",
+              "RelativeToolTip": "..\\..\\Users\\johnn\\OneDrive\\Escritorio\\maaaaa\\Presentation\\Vacaciones\\VACATS\\EditarVATS.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T02:09:09.439Z"
+              "WhenOpened": "2024-12-07T05:01:23.168Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Agregar.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\johnn\\OneDrive\\Escritorio\\CentroSaludP\\Presentation\\Pacientes\\Agregar.cs",
+              "DocumentMoniker": "C:\\REPOSITORIOS GIT\\PROYECTO-MEDICO\\Presentation\\Pacientes\\Agregar.cs",
               "RelativeDocumentMoniker": "Presentation\\Pacientes\\Agregar.cs",
               "ToolTip": "C:\\Users\\johnn\\OneDrive\\Escritorio\\maaaaa\\Presentation\\Pacientes\\Agregar.cs [Design]",
-              "RelativeToolTip": "..\\maaaaa\\Presentation\\Pacientes\\Agregar.cs [Design]",
+              "RelativeToolTip": "..\\..\\Users\\johnn\\OneDrive\\Escritorio\\maaaaa\\Presentation\\Pacientes\\Agregar.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T02:07:56.286Z"
+              "WhenOpened": "2024-12-07T05:01:23.242Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "AgregarVADM.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\johnn\\OneDrive\\Escritorio\\CentroSaludP\\Presentation\\Vacaciones\\VACAdmin\\AgregarVADM.cs",
+              "DocumentMoniker": "C:\\REPOSITORIOS GIT\\PROYECTO-MEDICO\\Presentation\\Vacaciones\\VACAdmin\\AgregarVADM.cs",
               "RelativeDocumentMoniker": "Presentation\\Vacaciones\\VACAdmin\\AgregarVADM.cs",
               "ToolTip": "C:\\Users\\johnn\\OneDrive\\Escritorio\\maaaaa\\Presentation\\Vacaciones\\VACAdmin\\AgregarVADM.cs [Design]",
-              "RelativeToolTip": "..\\maaaaa\\Presentation\\Vacaciones\\VACAdmin\\AgregarVADM.cs [Design]",
+              "RelativeToolTip": "..\\..\\Users\\johnn\\OneDrive\\Escritorio\\maaaaa\\Presentation\\Vacaciones\\VACAdmin\\AgregarVADM.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T01:29:48.316Z"
+              "WhenOpened": "2024-12-07T05:01:23.247Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "EditarVADM.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\johnn\\OneDrive\\Escritorio\\CentroSaludP\\Presentation\\Vacaciones\\VACAdmin\\EditarVADM.cs",
+              "DocumentMoniker": "C:\\REPOSITORIOS GIT\\PROYECTO-MEDICO\\Presentation\\Vacaciones\\VACAdmin\\EditarVADM.cs",
               "RelativeDocumentMoniker": "Presentation\\Vacaciones\\VACAdmin\\EditarVADM.cs",
               "ToolTip": "C:\\Users\\johnn\\OneDrive\\Escritorio\\maaaaa\\Presentation\\Vacaciones\\VACAdmin\\EditarVADM.cs [Design]",
-              "RelativeToolTip": "..\\maaaaa\\Presentation\\Vacaciones\\VACAdmin\\EditarVADM.cs [Design]",
+              "RelativeToolTip": "..\\..\\Users\\johnn\\OneDrive\\Escritorio\\maaaaa\\Presentation\\Vacaciones\\VACAdmin\\EditarVADM.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T01:29:47.1Z"
+              "WhenOpened": "2024-12-07T05:01:23.251Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Paciente.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\johnn\\OneDrive\\Escritorio\\CentroSaludP\\Presentation\\Pacientes\\Paciente.Designer.cs",
+              "DocumentMoniker": "C:\\REPOSITORIOS GIT\\PROYECTO-MEDICO\\Presentation\\Pacientes\\Paciente.Designer.cs",
               "RelativeDocumentMoniker": "Presentation\\Pacientes\\Paciente.Designer.cs",
-              "ToolTip": "C:\\Users\\johnn\\OneDrive\\Escritorio\\CentroSaludP\\Presentation\\Pacientes\\Paciente.Designer.cs",
+              "ToolTip": "C:\\REPOSITORIOS GIT\\PROYECTO-MEDICO\\Presentation\\Pacientes\\Paciente.Designer.cs",
               "RelativeToolTip": "Presentation\\Pacientes\\Paciente.Designer.cs",
               "ViewState": "AgIAALkAAAAAAAAAAAAMwMcAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T01:28:39.987Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-07T05:01:23.275Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "VacacionesADM.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\johnn\\OneDrive\\Escritorio\\CentroSaludP\\Presentation\\Vacaciones\\VACAdmin\\VacacionesADM.cs",
+              "DocumentMoniker": "C:\\REPOSITORIOS GIT\\PROYECTO-MEDICO\\Presentation\\Vacaciones\\VACAdmin\\VacacionesADM.cs",
               "RelativeDocumentMoniker": "Presentation\\Vacaciones\\VACAdmin\\VacacionesADM.cs",
               "ToolTip": "C:\\Users\\johnn\\OneDrive\\Escritorio\\maaaaa\\Presentation\\Vacaciones\\VACAdmin\\VacacionesADM.cs [Design]",
-              "RelativeToolTip": "..\\maaaaa\\Presentation\\Vacaciones\\VACAdmin\\VacacionesADM.cs [Design]",
+              "RelativeToolTip": "..\\..\\Users\\johnn\\OneDrive\\Escritorio\\maaaaa\\Presentation\\Vacaciones\\VACAdmin\\VacacionesADM.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T01:28:25.968Z"
+              "WhenOpened": "2024-12-07T05:01:23.296Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Paciente.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\johnn\\OneDrive\\Escritorio\\CentroSaludP\\Presentation\\Pacientes\\Paciente.cs",
+              "DocumentMoniker": "C:\\REPOSITORIOS GIT\\PROYECTO-MEDICO\\Presentation\\Pacientes\\Paciente.cs",
               "RelativeDocumentMoniker": "Presentation\\Pacientes\\Paciente.cs",
               "ToolTip": "C:\\Users\\johnn\\OneDrive\\Escritorio\\CentroSaludP\\Presentation\\Pacientes\\Paciente.cs [Design]",
-              "RelativeToolTip": "Presentation\\Pacientes\\Paciente.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T01:28:22.062Z",
-              "EditorCaption": " [Design]"
+              "RelativeToolTip": "..\\..\\Users\\johnn\\OneDrive\\Escritorio\\CentroSaludP\\Presentation\\Pacientes\\Paciente.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-12-07T05:01:23.301Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Editar.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\johnn\\OneDrive\\Escritorio\\CentroSaludP\\Presentation\\Pacientes\\Editar.cs",
+              "DocumentMoniker": "C:\\REPOSITORIOS GIT\\PROYECTO-MEDICO\\Presentation\\Pacientes\\Editar.cs",
               "RelativeDocumentMoniker": "Presentation\\Pacientes\\Editar.cs",
-              "ToolTip": "C:\\Users\\johnn\\OneDrive\\Escritorio\\CentroSaludP\\Presentation\\Pacientes\\Editar.cs [Design]",
+              "ToolTip": "C:\\REPOSITORIOS GIT\\PROYECTO-MEDICO\\Presentation\\Pacientes\\Editar.cs [Design]",
               "RelativeToolTip": "Presentation\\Pacientes\\Editar.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T01:28:21.001Z",
+              "WhenOpened": "2024-12-07T05:01:23.795Z",
               "EditorCaption": " [Design]"
             }
           ]

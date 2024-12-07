@@ -1,14 +1,15 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Users\\johnn\\OneDrive\\Escritorio\\CentroSaludP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F9D9251A-2AC1-409C-9FFD-E5E3E12DD1C9}|Presentation\\Presentation.csproj|C:\\Users\\johnn\\OneDrive\\Escritorio\\CentroSaludP\\presentation\\pacientes\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F9D9251A-2AC1-409C-9FFD-E5E3E12DD1C9}|Presentation\\Presentation.csproj|solutionrelative:presentation\\pacientes\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F9D9251A-2AC1-409C-9FFD-E5E3E12DD1C9}|Presentation\\Presentation.csproj|C:\\Users\\johnn\\OneDrive\\Escritorio\\CentroSaludP\\presentation\\pacientes\\editar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F9D9251A-2AC1-409C-9FFD-E5E3E12DD1C9}|Presentation\\Presentation.csproj|solutionrelative:presentation\\pacientes\\editar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D9251A-2AC1-409C-9FFD-E5E3E12DD1C9}|Presentation\\Presentation.csproj|C:\\Users\\johnn\\OneDrive\\Escritorio\\CentroSaludP\\presentation\\pacientes\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F9D9251A-2AC1-409C-9FFD-E5E3E12DD1C9}|Presentation\\Presentation.csproj|solutionrelative:presentation\\pacientes\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F9D9251A-2AC1-409C-9FFD-E5E3E12DD1C9}|Presentation\\Presentation.csproj|c:\\users\\johnn\\onedrive\\escritorio\\centrosaludp\\presentation\\pacientes\\paciente.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,6 +34,37 @@
     {
       "AbsoluteMoniker": "D:0:0:{F9D9251A-2AC1-409C-9FFD-E5E3E12DD1C9}|Presentation\\Presentation.csproj|C:\\Users\\johnn\\OneDrive\\Escritorio\\CentroSaludP\\presentation\\vacaciones\\vacadmin\\vacacionesadm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F9D9251A-2AC1-409C-9FFD-E5E3E12DD1C9}|Presentation\\Presentation.csproj|solutionrelative:presentation\\vacaciones\\vacadmin\\vacacionesadm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+=======
+  "WorkspaceRootPath": "C:\\REPOSITORIOS GIT\\PROYECTO-MEDICO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D9251A-2AC1-409C-9FFD-E5E3E12DD1C9}|Presentation\\Presentation.csproj|c:\\repositorios git\\proyecto-medico\\presentation\\pacientes\\agregar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D9251A-2AC1-409C-9FFD-E5E3E12DD1C9}|Presentation\\Presentation.csproj|solutionrelative:presentation\\pacientes\\agregar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D9251A-2AC1-409C-9FFD-E5E3E12DD1C9}|Presentation\\Presentation.csproj|C:\\REPOSITORIOS GIT\\PROYECTO-MEDICO\\presentation\\pacientes\\agregar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F9D9251A-2AC1-409C-9FFD-E5E3E12DD1C9}|Presentation\\Presentation.csproj|solutionrelative:presentation\\pacientes\\agregar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D9251A-2AC1-409C-9FFD-E5E3E12DD1C9}|Presentation\\Presentation.csproj|C:\\REPOSITORIOS GIT\\PROYECTO-MEDICO\\presentation\\pacientes\\editar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F9D9251A-2AC1-409C-9FFD-E5E3E12DD1C9}|Presentation\\Presentation.csproj|solutionrelative:presentation\\pacientes\\editar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D9251A-2AC1-409C-9FFD-E5E3E12DD1C9}|Presentation\\Presentation.csproj|c:\\repositorios git\\proyecto-medico\\presentation\\pacientes\\editar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D9251A-2AC1-409C-9FFD-E5E3E12DD1C9}|Presentation\\Presentation.csproj|solutionrelative:presentation\\pacientes\\editar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D9251A-2AC1-409C-9FFD-E5E3E12DD1C9}|Presentation\\Presentation.csproj|C:\\REPOSITORIOS GIT\\PROYECTO-MEDICO\\presentation\\pacientes\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F9D9251A-2AC1-409C-9FFD-E5E3E12DD1C9}|Presentation\\Presentation.csproj|solutionrelative:presentation\\pacientes\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D9251A-2AC1-409C-9FFD-E5E3E12DD1C9}|Presentation\\Presentation.csproj|c:\\repositorios git\\proyecto-medico\\presentation\\pacientes\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D9251A-2AC1-409C-9FFD-E5E3E12DD1C9}|Presentation\\Presentation.csproj|solutionrelative:presentation\\pacientes\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D9251A-2AC1-409C-9FFD-E5E3E12DD1C9}|Presentation\\Presentation.csproj|C:\\REPOSITORIOS GIT\\PROYECTO-MEDICO\\presentation\\empleados\\administracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F9D9251A-2AC1-409C-9FFD-E5E3E12DD1C9}|Presentation\\Presentation.csproj|solutionrelative:presentation\\empleados\\administracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+>>>>>>> e395fcf (Empleados)
     }
   ],
   "DocumentGroupContainers": [
@@ -42,11 +74,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+<<<<<<< HEAD
               "Title": "EditarVATS.cs [Design]",
               "DocumentMoniker": "C:\\Users\\johnn\\OneDrive\\Escritorio\\CentroSaludP\\Presentation\\Vacaciones\\VACATS\\EditarVATS.cs",
               "RelativeDocumentMoniker": "Presentation\\Vacaciones\\VACATS\\EditarVATS.cs",
@@ -114,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Paciente.cs [Design]",
               "DocumentMoniker": "C:\\Users\\johnn\\OneDrive\\Escritorio\\CentroSaludP\\Presentation\\Pacientes\\Paciente.cs",
               "RelativeDocumentMoniker": "Presentation\\Pacientes\\Paciente.cs",
@@ -122,11 +167,45 @@
               "RelativeToolTip": "Presentation\\Pacientes\\Paciente.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-07T01:28:22.062Z",
-              "EditorCaption": " [Design]"
+=======
+              "Title": "Editar.cs",
+              "DocumentMoniker": "C:\\REPOSITORIOS GIT\\PROYECTO-MEDICO\\Presentation\\Pacientes\\Editar.cs",
+              "RelativeDocumentMoniker": "Presentation\\Pacientes\\Editar.cs",
+              "ToolTip": "C:\\REPOSITORIOS GIT\\PROYECTO-MEDICO\\Presentation\\Pacientes\\Editar.cs",
+              "RelativeToolTip": "Presentation\\Pacientes\\Editar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T01:12:43.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Editar.cs [Design]",
+              "DocumentMoniker": "C:\\REPOSITORIOS GIT\\PROYECTO-MEDICO\\Presentation\\Pacientes\\Editar.cs",
+              "RelativeDocumentMoniker": "Presentation\\Pacientes\\Editar.cs",
+              "ToolTip": "C:\\REPOSITORIOS GIT\\PROYECTO-MEDICO\\Presentation\\Pacientes\\Editar.cs [Design]",
+              "RelativeToolTip": "Presentation\\Pacientes\\Editar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T00:25:10.862Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Agregar.cs [Design]",
+              "DocumentMoniker": "C:\\REPOSITORIOS GIT\\PROYECTO-MEDICO\\Presentation\\Pacientes\\Agregar.cs",
+              "RelativeDocumentMoniker": "Presentation\\Pacientes\\Agregar.cs",
+              "ToolTip": "C:\\REPOSITORIOS GIT\\PROYECTO-MEDICO\\Presentation\\Pacientes\\Agregar.cs [Design]",
+              "RelativeToolTip": "Presentation\\Pacientes\\Agregar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T00:07:20.405Z",
+>>>>>>> e395fcf (Empleados)
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+<<<<<<< HEAD
               "Title": "Editar.cs [Design]",
               "DocumentMoniker": "C:\\Users\\johnn\\OneDrive\\Escritorio\\CentroSaludP\\Presentation\\Pacientes\\Editar.cs",
               "RelativeDocumentMoniker": "Presentation\\Pacientes\\Editar.cs",
@@ -135,6 +214,52 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-07T01:28:21.001Z",
               "EditorCaption": " [Design]"
+=======
+              "Title": "Agregar.cs",
+              "DocumentMoniker": "C:\\REPOSITORIOS GIT\\PROYECTO-MEDICO\\Presentation\\Pacientes\\Agregar.cs",
+              "RelativeDocumentMoniker": "Presentation\\Pacientes\\Agregar.cs",
+              "ToolTip": "C:\\REPOSITORIOS GIT\\PROYECTO-MEDICO\\Presentation\\Pacientes\\Agregar.cs",
+              "RelativeToolTip": "Presentation\\Pacientes\\Agregar.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAADgv0AAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T00:10:44.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Paciente.cs",
+              "DocumentMoniker": "C:\\REPOSITORIOS GIT\\PROYECTO-MEDICO\\Presentation\\Pacientes\\Paciente.cs",
+              "RelativeDocumentMoniker": "Presentation\\Pacientes\\Paciente.cs",
+              "ToolTip": "C:\\REPOSITORIOS GIT\\PROYECTO-MEDICO\\Presentation\\Pacientes\\Paciente.cs",
+              "RelativeToolTip": "Presentation\\Pacientes\\Paciente.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAmwHMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T23:48:07.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Paciente.cs [Design]",
+              "DocumentMoniker": "C:\\REPOSITORIOS GIT\\PROYECTO-MEDICO\\Presentation\\Pacientes\\Paciente.cs",
+              "RelativeDocumentMoniker": "Presentation\\Pacientes\\Paciente.cs",
+              "ToolTip": "C:\\REPOSITORIOS GIT\\PROYECTO-MEDICO\\Presentation\\Pacientes\\Paciente.cs [Design]",
+              "RelativeToolTip": "Presentation\\Pacientes\\Paciente.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T23:47:51.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Administracion.cs [Design]",
+              "DocumentMoniker": "C:\\REPOSITORIOS GIT\\PROYECTO-MEDICO\\Presentation\\Empleados\\Administracion.cs",
+              "RelativeDocumentMoniker": "Presentation\\Empleados\\Administracion.cs",
+              "ToolTip": "C:\\REPOSITORIOS GIT\\PROYECTO-MEDICO\\Presentation\\Empleados\\Administracion.cs [Design]",
+              "RelativeToolTip": "Presentation\\Empleados\\Administracion.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T23:47:45.334Z"
+>>>>>>> e395fcf (Empleados)
             }
           ]
         }
