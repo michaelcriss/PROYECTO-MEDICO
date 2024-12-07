@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\criso\\OneDrive\\Escritorio\\Nueva carpeta (5)\\INF-325-2024-3\\INF-325-2024-3\\DataAccess\\DataAccess.csproj": {}
+    "C:\\Users\\johnn\\OneDrive\\Escritorio\\CentroSaludP\\DataAccess\\DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\criso\\OneDrive\\Escritorio\\Nueva carpeta (5)\\INF-325-2024-3\\INF-325-2024-3\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\johnn\\OneDrive\\Escritorio\\CentroSaludP\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\criso\\OneDrive\\Escritorio\\Nueva carpeta (5)\\INF-325-2024-3\\INF-325-2024-3\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\johnn\\OneDrive\\Escritorio\\CentroSaludP\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\criso\\OneDrive\\Escritorio\\Nueva carpeta (5)\\INF-325-2024-3\\INF-325-2024-3\\DataAccess\\DataAccess.csproj",
-        "packagesPath": "C:\\Users\\criso\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\criso\\OneDrive\\Escritorio\\Nueva carpeta (5)\\INF-325-2024-3\\INF-325-2024-3\\DataAccess\\obj\\",
+        "projectPath": "C:\\Users\\johnn\\OneDrive\\Escritorio\\CentroSaludP\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\johnn\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\johnn\\OneDrive\\Escritorio\\CentroSaludP\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\criso\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\johnn\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -34,12 +35,29 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.2.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Analyzers": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
             "System.Configuration.ConfigurationManager": {
               "target": "Package",
               "version": "[8.0.1, )"
@@ -65,7 +83,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

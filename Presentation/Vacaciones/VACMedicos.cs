@@ -193,5 +193,10 @@ namespace Presentation
         {
             this.Close();
         }
+
+        private void VACMedicos_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

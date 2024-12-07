@@ -22,7 +22,7 @@ namespace Presentation
 
         private void ListarAdministracion()
         {
-            VacAdministracionCL vacadmin = new VacAdministracionCL(); 
+            VacAdministracionCL vacadmin = new VacAdministracionCL();
             cmbAdmin.DataSource = vacadmin.ListarAdministracion();
             cmbAdmin.DisplayMember = "NOMBRE";
             cmbAdmin.ValueMember = "IDADMIN";
@@ -81,7 +81,7 @@ namespace Presentation
                 }
                 else
                 {
-                    dataGridView1.DataSource = vacadmin .Get();
+                    dataGridView1.DataSource = vacadmin.Get();
                     return;
                 }
 
@@ -195,6 +195,21 @@ namespace Presentation
         private void button1_Click(object sender, EventArgs e)
         {
             this.Close();
+        }
+
+        private void VACAdmin_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
+        private void cmbOpciones_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }
